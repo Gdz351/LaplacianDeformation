@@ -2,7 +2,7 @@
 
 int main() {
 
-	Manager window("example",1200,600, "../obj/Armadillo.ply");
+	Manager window("example",1200,600, "../obj/bunny.obj");
 
 	window.show();
 
